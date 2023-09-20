@@ -28,4 +28,21 @@ The React Movie and TV Show Metadata Viewer is a web application that allows use
    ```
    npm start
    ```
-   
+## Contributing
+
+If you'd like to contribute to this project, please follow the standard GitHub flow:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+Feel free to customize this template with your specific project details and information. It should help potential contributors and users understand the purpose and functionality of your React-based movie and TV show metadata viewer app.
+
+
+
+
+
+
