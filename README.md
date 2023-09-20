@@ -39,7 +39,6 @@ If you'd like to contribute to this project, please follow the standard GitHub f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-Feel free to customize this template with your specific project details and information. It should help potential contributors and users understand the purpose and functionality of your React-based movie and TV show metadata viewer app.
 
 
 
